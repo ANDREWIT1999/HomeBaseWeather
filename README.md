@@ -1,6 +1,11 @@
 # homebase_weather
 
-## How to Use 
+## App Architecture 
+
+![alt text](https://camo.githubusercontent.com/55853a69706aa99be6d5f6ffaf11d2bd5747d0338756ecefd93338b3fd687937/68747470733a2f2f692e6962622e636f2f5744466d7858422f6170702d6469616772616d2e706e67)
+
+
+## How to Run Project
 
 
 **Step 1:**
